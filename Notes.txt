@@ -1,0 +1,29 @@
+1. Arrays
+	==> 1D,2D,3D Arrays
+	==> Passing Arrays to functions
+	==> Accessing elements in Arrays (Row/Col)
+2. Vectors
+	==> 1D, 2D vectors 
+	==> declaration, accessing elements , passing vectors
+	    to functions, printing elements
+3. Linked List (single, double) 
+	==> Without Allocating with arrays
+	==> Allocating 
+	==> STL lists, syntax and usage
+4. Hash Map
+	==> when to use, 
+	==> without stl
+	==> with STL 
+
+5. Stack 
+	==> Array, Linked List
+	==> Template 
+6. Queue, Circular 	
+	==> Arrays, Linked List, Stack
+	==> Stacks
+7. Priority Queue
+8. String Library
+	String Search Algorithms
+9. Search Algorithms
+	==> Linear, Binary, BFS, DFS
+10.Sorting Algorithms
